@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "LENS FLARE",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-13T12:45:21.406575Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Kim feat. BlazinG",
+      "has_synced": true,
+      "path": "select/01_LENS_FLARE_Kim_feat._BlazinG.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Kim",
+      "has_synced": true,
+      "path": "select/02_LENS_FLARE_Kim.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/03_LENS_FLARE_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/04_LENS_FLARE_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Kenshi Yonezu",
+      "has_synced": false,
+      "path": "select/05_LENS_FLARE_Kenshi_Yonezu.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Kim\u0000Blazing",
+      "has_synced": true,
+      "path": "select/06_LENS_FLARE_Kim\u0000Blazing.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lens Flare",
+      "artist": "Hotel Lights",
+      "has_synced": true,
+      "path": "select/07_Lens_Flare_Hotel_Lights.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LENS FLARE",
+      "artist": "Kim/BlazinG",
+      "has_synced": true,
+      "path": "select/08_LENS_FLARE_Kim_BlazinG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LENS FLARE",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_LENS_FLARE_米津玄師.txt"
+    }
+  ]
+}
